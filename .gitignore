@@ -1,3 +1,4 @@
 /build/
 /.project
 /.externalToolBuilders/
+/source/themes/sphinx_rtd_theme/static/langdoc/
