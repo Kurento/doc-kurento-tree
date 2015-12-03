@@ -1,4 +1,6 @@
 /build/
 /.project
 /.externalToolBuilders/
-/source/themes/sphinx_rtd_theme/static/langdoc/
+/source/themes/sphinx_rtd_theme/static/langdoc/ç
+*.rst-e
+*.html-e
